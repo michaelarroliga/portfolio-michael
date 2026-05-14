@@ -37,7 +37,7 @@ Excel-based treasury solution designed to automate and improve the bank reconcil
 
 ## Screenshots
 
-(overview-bank-rencociliation.png)
+![Dashboard](images/overview-bank-rencociliation.png)
 
 ---
 
