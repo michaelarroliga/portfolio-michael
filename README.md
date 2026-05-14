@@ -54,6 +54,6 @@ I specialize in:
 
 ## Contact
 
-LinkedIn: your-linkedin
+LinkedIn: https://www.linkedin.com/in/michael-arroliga-823307122/
 
-Email: your-email
+Email: micchaeljavier@hotmail.com
